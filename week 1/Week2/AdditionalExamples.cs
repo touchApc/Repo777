@@ -1,4 +1,8 @@
-﻿using System;
+namespace week_1.Week2
+{
+    public class AdditionalExamples
+    {
+       using System;
 using System.Text;
 
 namespace HelloWorld.Week2
@@ -83,5 +87,7 @@ namespace HelloWorld.Week2
 
         #endregion
 
+    }
+} 
     }
 }
